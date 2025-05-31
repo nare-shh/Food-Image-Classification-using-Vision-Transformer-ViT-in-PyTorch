@@ -12,10 +12,8 @@ Traditional Convolutional Neural Networks (CNNs) have dominated image classifica
 
 In this project:
 - We implement the **Vision Transformer (ViT)** from scratch using PyTorch.
-- We classify images from a food dataset such as **Food-101** or a custom food image dataset.
+- We classify images from a food dataset a custom food image dataset.
 - The model learns to identify different food categories based on visual patterns.
 
----
 
-## 📁 Folder Structure
 
